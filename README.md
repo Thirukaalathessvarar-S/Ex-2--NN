@@ -1,6 +1,6 @@
 # Name : Thirukaalathessvarar S
 # Register : 212222230161
-# Date : 12/09/2024
+# Date :
 
 # Experiment No. 2 
 ## Implementation of Perceptron for Binary Classification
